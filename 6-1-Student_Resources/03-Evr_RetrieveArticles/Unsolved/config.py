@@ -1,2 +1,1 @@
-# Add your API key
-api_key = "YOUR KEY HERE!"
+NYT_API_KEY=""ATQ0mPTUQvs8dyfOGDpqvmLtpIrJMsZY"
