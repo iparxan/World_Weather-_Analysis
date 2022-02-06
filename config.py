@@ -1,2 +1,1 @@
-weather_api_key="3ad82c31658bab7397b0750f5db46623" 
-NYT_API_KEY="ATQ0mPTUQvs8dyfOGDpqvmLtpIrJMsZY"
+weather_api_key="8e89ffc52d826c2612a37deeff931e5b" 
